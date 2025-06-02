@@ -10,7 +10,9 @@ Extracted on-chain data with SQL, filtered high-volume tokens and visualised tre
 
 ## Key Insights:
 
--  **Unique Wallet Participation:** Monthly active wallet count showed consistent growth up to January 2025, reflecting increasing user engagement. However, activity has declined since then, likely due to broader market conditions.
+-  **Unique Wallet Participation:**
+     Monthly active wallet count showed consistent growth up to January 2025, reflecting increasing user engagement. However, activity has declined since then, likely due to broader market conditions.
+
 -  **Smart Contract Usage:** A large portion of transactions are contract-related, suggesting INK is used for more than just transfers — possibly dApps or token interactions. This metric has shown steady growth over time.
 -  **Developer Activity:** Weekly unique contract deployers spiked in January and March 2025, but overall developer activity remains relatively low, suggesting a small but occasionally active builder community.
 -  **Token Transfer Pattern:** WETH and stablecoins dominate transfer volume on INK, signaling that the chain is primarily used for financial transactions like trading, bridging, or liquidity movement — rather than for speculative or entertainment use cases (e.g., meme tokens or NFTs).
