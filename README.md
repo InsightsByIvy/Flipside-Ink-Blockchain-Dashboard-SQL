@@ -21,4 +21,6 @@ Extracted on-chain data with SQL, filtered high-volume tokens and visualised tre
 - **Flipside Dashboards** for visualization
 
 ## 🗂️ Screenshot / Preview
-![screenshot](dashboard_screenshot.png)
+![Dashboard screenshot](dashboard1.png)
+![Dashboard screenshot](dashboard2.png)
+![SQL screenshot](SQLexample.png)
